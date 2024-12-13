@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "profilePic": "/Glomap/media/images/Vardaan.png",
+    "name": "Vardaan",
+    "bio": "~Working for Future",
+    "roles": "Admin",
+    "tags": ["Promot Engineer", "Web Dev"],
+    "socialLinks": {
+      "instagram": ["https://www.instagram.com/8xaura/"],
+      "github": ["https://github.com/speedaily"]
+    },
+      "projectLinks": {
+      "github": ["https://github.com/247pages"],
+      "website": ["https://247pages.github.io/Vwolf/"]
+    },
+    "websiteLinks": {
+         }
+  },
+
+  
+  {
+    "id": 2,
+    "profilePic": "/Glomap/media/images/anaya.jpg",
+    "name": "Anaya Singh",
+    "bio": "~Believes in Self Learning ✌",
+    "roles": "Admin",
+    "tags": ["Frontend Web Dev", "Designer"],
+    "socialLinks": {
+      "Instagram": ["https://www.instagram.com/_i.m.anaya/"],
+      "github": ["https://github.com/247pages"]
+   
+    },
+    "projectLinks": {
+      "github": ["https://github.com/247pages"],
+      "website": ["https://247pages.github.io/Vwolf/"]
+    },
+    "websiteLinks": {
+       }
+  },
+    {
+      "id": 3,
+      "profilePic": "/Glomap/media/images/sync-snippet.jpg",
+      "name": "Sync Snippet",
+      "bio": "~Building community of dreamers",
+      "roles": "Admin",
+      "tags": ["Content Creator"],
+    "projectLinks": {
+
+    },
+    "websiteLinks": {
+         }
+  }
+
+]
